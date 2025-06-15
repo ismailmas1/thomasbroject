@@ -1,0 +1,70 @@
+*
+div {
+    
+
+}
+.img {
+    display: flex;
+    justify-content: space-between;
+    border: 3px #000000 solid;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.A1 a{
+    color: rgb(0, 0, 0);
+    margin-left: 15px;
+    text-decoration: none;
+    border-radius: 15px
+    
+}
+.A1 a:hover{
+    color: aqua;
+    
+}
+.A1 button {
+    color: #fafafa;
+    background-color: rgb(255, 0, 0);
+    padding: 6px;
+    border: 1;
+    display: inline-block;
+
+}
+.A1 button:hover {
+    background-color: rgb(255, 0, 0);
+    border-radius: 125;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+.C1 {
+    width: 100%;
+    height: 60vh;
+    background-image: url(https://cdn.discordapp.com/attachments/1377624283672613034/1377650249178284082/ezgif-21dc2a77c5482b.gif?ex=685025c6&is=684ed446&hm=e70767a54d5dd0a30ee9b528ad070e0472c80d704f2047851c541c686a6561d8);
+    background-size: cover;
+    background-position: center;
+    padding-top: 250px;
+}
+.text {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.W1 {
+    color: #000000;
+}
+.h2 {
+    color: rgb(13 255 190)
+}
+.h1 {
+    color: chocolate;
+}
+.bc {
+    border-radius: 10%;
+    padding: 2;
+
+}
+.bc:hover {
+    color: aqua;
+
+}
